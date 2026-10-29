@@ -64,5 +64,88 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Bolagsverket is a company surfaced via the API Evangelist harvest backlog (source: stockholm-trip) and added to the network as a stub for full-pipeline profiling.
-- https://bolagsverket.se/
+Bolagsverket is Sweden’s official register of companies, providing public access to corporate information, filings, and open data APIs. It enables businesses, authorities, and developers to retrieve and submit company data such as registration details, annual reports, and ownership information. The agency supports digital services for company formation, changes, and compliance, offering both free and fee‑based APIs, downloadable datasets, and XML feeds for integration into external systems.
+
+**Areas:** Company · Government · Registry · Sweden · Business
+
+## Bolagsverket on APIs.io
+
+Everything profiled for Bolagsverket is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/bolagsverket/](https://apis.io/providers/bolagsverket/)** — or go straight to one of the APIs or properties below.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Bolagsverket Domain Security](https://apis.io/security/bolagsverket/bolagsverket-domain-security/)
+- [Bolagsverket Vulnerability Disclosure](https://apis.io/security/bolagsverket/bolagsverket-vulnerability-disclosure/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://bolagsverket.se/)
+- [Documentation](https://bolagsverket.se/apierochoppnadata.2531.html)
+- [Getting started](https://bolagsverket.se/apierochoppnadata/hamtaforetagsinformation.5841.html)
+- [API reference](https://bolagsverket.se/apierochoppnadata.2531.html)
+- [Pricing](https://bolagsverket.se/apierochoppnadata.2531.html)
+- [Sign up](https://bolagsverket.se/apierochoppnadata/hamtaforetagsinformation.5841.html)
+- [Support](https://bolagsverket.se/omoss/kontaktaoss.2049.html)
+- [Blog](https://bolagsverket.se/nyheterochreleaser.5497.html)
+- [GitHub](https://github.com/bolagsverket)
+
+## API Evangelist rating
+
+**Kin Score 19.5** — emerging · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 48.2 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 15.8 |
+| Developer ergonomics | 40.5 |
+| Access clarity | 23.7 |
+
+**Agent readiness 0.0** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 11.8** — Government & Public Sector
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/bolagsverket/](https://apis.io/providers/bolagsverket/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Bolagsverket: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/bolagsverket/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
